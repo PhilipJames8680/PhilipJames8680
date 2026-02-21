@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Security+Researcher;Hardware+%26+AI+Exploration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Security+Researcher" />
 </p>
 
 <p align="center">
