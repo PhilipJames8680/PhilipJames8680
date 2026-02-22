@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>Security Researcher • Red Team Enthusiast</b><br/>
+  <b>Security Researcher • Pentester</b><br/>
 </p>
 
 ---
@@ -78,6 +78,10 @@
 <br/>
 <a href="https://medium.com/@philipjames9047/starting-off-with-a-small-vulnerability-responsibly-disclosed-0e25c23b01f0">
   <img width="85%" src="https://github-readme-medium-recent-article.vercel.app/medium/@philipjames9047/1" />
+</a>
+<br/>
+<a href="https://medium.com/@philipjames9047/how-a-user-enumeration-vulnerability-was-found-in-an-otp-authentication-api-a92d6235c640">
+  <img width="85%" src="https://github-readme-medium-recent-article.vercel.app/medium/@philipjames9047/2" />
 </a>
 
 </div>
